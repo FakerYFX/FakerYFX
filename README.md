@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - email:2364835756@qq.com
 - 微信公众号[《计算广告那些事儿》](https://mp.weixin.qq.com/s?__biz=MzIwNTE0NTgyMQ==&mid=2247483695&idx=1&sn=53a8ff28b2777df0a427e4c22bcc6a8f&chksm=9734129da0439b8b6f0a9f91dff729d8343d98ecb29602ad691f110846416d3afbcb5ea45834#rd)话事人
-- 个人博客:[CSDN]([https://zhpmatrix.github.io/](https://blog.csdn.net/GeorgePigX))
+- 个人博客:[CSDN](https://zhpmatrix.github.io/](https://blog.csdn.net/GeorgePigX)
 - 🎓 Master of Computer Science
   
 <a href="https://github.com/zhpmatrix">
